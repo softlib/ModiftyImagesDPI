@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/19 16:00:35.000.353,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/20 11:56:21.000.284,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/21 14:10:50.781,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/21 14:13:36.919,D:\delphi_projects\修改图片分辨率\Unit1.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/11/21 14:13:36.919,D:\delphi_projects\修改图片分辨率\Unit1.pas=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/21 14:13:38.503,D:\delphi_projects\修改图片分辨率\修改图片分辨率.dproj=C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
